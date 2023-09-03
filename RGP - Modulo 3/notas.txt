@@ -1,0 +1,18 @@
+**El ejercicio 1 he podido realizarlo gracias a la ayuda de mis compañeros para el unir el slider,
+ ya que era problema de la biblioteca y tipo de version de mi d3.js y no habia manera de que apareciera.
+
+Además de ello, el unico problema que he tenido es el poner titulo, he intentado ponerlo desde el html
+ y su estilo en el archivo css, pero me ocurria que no se me alineaba, en plan, cuando se dibujaba
+ el texto era como que el svg se calculaba a continuación y no debajo..
+
+Despues, los estilos no se cargaban, osea, se cargaba pero como se actualizaba el grafico, se ponia un estilo 
+por defecto.. por eso he optado por poner un objeto mas en svg y añadir ahi el texto y sus caracteristicas.
+
+Estos errores sé que tienen solución y seguramente son muy tontos, pero como no me quedaba ya tiempo pues 
+he optado por la solucion que si me ha salido, tomaré esto en cuenta para las futuras entregas, 
+que tengo que ir con mas tiempo xd
+
+
+**El ejercicio 2 he tirado mucho de chatGpt, hice practicamente sola la grafica de barras, 
+pero la de dicaprio me liaba a la hora de que apareciera la grafica.
+Asi que tiré de su ayuda para cuadrar bien los ejes y para poner el gradiente de color de las barras, segun la columna name.

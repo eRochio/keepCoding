@@ -1,0 +1,18 @@
+
+rect{
+    fill: coral;
+    stroke: black;
+    stroke-width: 1;
+}
+
+title {
+    color: rgb(31, 48, 240);
+}
+
+h2 {
+    color: rgb(87, 65, 23);
+    font-size: 20px;
+    text-align: left;
+    float: left;
+    margin-right: 20px;
+}
