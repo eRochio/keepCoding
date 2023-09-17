@@ -21,7 +21,7 @@ Los datos que tenemos de los vehiculos son los siguientes:
 * Fecha_revision 
 * Kms_totales, que tiene actualmente el coche
 
-[~En esta dirección se puede ver el diagrama que se ha seguido para relacionar los datos.~](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1a5_gSdSXBAlj_-aiysiI8V8fSUnuL3d3)
+[En esta dirección se puede ver el diagrama que se ha seguido para relacionar los datos.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1a5_gSdSXBAlj_-aiysiI8V8fSUnuL3d3)
 
 Aparte del script, se realiza una consulta SQL para sacar el siguiente listado de coches activos:
 
