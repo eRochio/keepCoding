@@ -17,7 +17,8 @@ También en las tablas se realiza algunos calculos, todo esta explicado en comen
 
 Como comentario personal, esta practica me ha costado entenderla en varias de estas columnas calculadas y he estado literalmente así:
 
-![](minion.gif)
+![Uploading minion.gif…]()
+
 
 Pero con trabajo duro y cafeína se puede conseguir estas cosas, por lo que seguir progresando!! :muscle: 
 
