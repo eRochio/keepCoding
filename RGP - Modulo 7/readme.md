@@ -15,7 +15,7 @@ En la practica se nos propone resolver las siguientes cuestiones:
    
 5. ¿En que porcentaje a variado a nivel mundial el GDP promedio del 2020 respecto al 2021? ¿Aumentó o disminuyó?
    
-6. ¿Cuál es el país con mayor expectativa de vide (“Healthy life expectancy at birth”)? Y ¿Cuánto tenia en ese indicador en el 2019?
+6. ¿Cuál es el país con mayor expectativa de vida (“Healthy life expectancy at birth”)? Y ¿Cuánto tenia en ese indicador en el 2019?
 
 Para la resolución, hemos utilizado el entorno de jupyter notebook con el lenguaje de python. 
 
