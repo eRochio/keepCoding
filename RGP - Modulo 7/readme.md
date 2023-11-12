@@ -2,7 +2,7 @@
 ***
 *Rocío González Palmeta* :purple_heart: 
 
-En esta practica trabajaremos sobre dos datasets, los cuales, tienen contienen diversos indicadores de felicidad para cada pais y años. 
+En esta practica trabajaremos sobre dos datasets, los cuales, contienen diversos indicadores de felicidad para cada pais y años. 
 
 En la practica se nos propone resolver las siguientes cuestiones:
 1. ¿Cuál es el país más “feliz” del 2021 según la data? (considerar que la columna “Ladder score” mayor número más feliz es el país)
